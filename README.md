@@ -7,6 +7,11 @@ EVOGYM is a cutting-edge fitness web designed to help users achieve their fitnes
 ![Screen 1](https://github.com/linneszyx/EVOGYM/blob/master/screenshots/snap1.png)
 
 
+
+## DEMO
+[EVOGYM](https://89f472fc.evogym-cbv.pages.dev/)
+
+
 ## Run Locally
 
 Clone the project
