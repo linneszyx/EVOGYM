@@ -2,10 +2,9 @@
 # EVOGYM 
 EVOGYM is a cutting-edge fitness web designed to help users achieve their fitness goals.This website is responsive created using Vite.
 
+## Screenshot
 
-## Screenshots
-
-![App Screenshot](https://github.com/linneszyx/EVOGYM/blob/master/screenshots/snap1.jpg?raw=true)
+![Screen 1](https://github.com/linneszyx/EVOGYM/blob/master/screenshots/snap1.png)
 
 
 ## Run Locally
